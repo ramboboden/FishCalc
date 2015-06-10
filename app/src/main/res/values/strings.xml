@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FishCalc</string>
+
+    // Action bar
+    <string name="action_settings">Settings</string>
+
+    //Setting
+    <string name="unitTitle">Måttenheter</string>
+    <string name="lengthUnit">Använd Tum</string>
+    <string name="lengthSummery">Använd tum i stället för cm</string>
+    <string name="weightUnit">Använd Pound</string>
+    <string name="weighSummery">Använd pound i stället för Kg</string>
+
+    // Main
+    <string name="length_hint">0</string>
+    <string name="length_unit_cm"> cm </string>
+    <string name="length_unit_inch"> inch </string>
+    <string name="weight_unit_kg"> Kg</string>
+    <string name="weight_unit_pound"> lb</string>
+
+    // spices
+    <string-array name="spices_array">
+        <item>Öring</item>
+        <item>Röding</item>
+        <item>Harr</item>
+        <item>Sik</item>
+        <item>Lax</item>
+        <item>Havsöring</item>
+    </string-array>
+
+    // Settings
+    <string name="title_activity_setting">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>

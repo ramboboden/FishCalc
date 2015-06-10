@@ -1,0 +1,37 @@
+<resources>
+
+    <color name="actionbar_background">#2196F3</color>
+    <color name="actionbar_text">#E3F2FD</color>
+    <color name="actionbar_menu">#EDC4E9</color>
+    <color name="actionbar_tab">#F8BBD0</color>
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar" >
+
+        <item name="android:actionBarStyle">@style/FishActionBar</item>
+        <!---
+        <item name="android:actionBarTabStyle">@style/FishActionTab</item>
+        -->
+    </style>
+
+
+    <style name="FishActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/actionbar_background</item>
+    </style>
+
+    <!---
+    <style name="FishActionTab" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/actionbar_background</item>
+    </style>
+
+    <style name="FishActionMenuText" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/actionbar_text</item>
+    </style>
+
+    <style name="FishActionTabText" parent="@android:style/Widget.Holo.ActionBar.TabText">
+        <item name="android:textColor">@color/actionbar_tab</item>
+    </style>
+    -->
+
+</resources>

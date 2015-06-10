@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="k_array">
+        <item>100</item>    //oring
+        <item>100</item>    //roding
+        <item>90</item>     //harr
+        <item>90</item>     //sik
+        <item>120</item>    //havsoring
+        <item>90</item>     //lax
+    </integer-array>
+</resources>
